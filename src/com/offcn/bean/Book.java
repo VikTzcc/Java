@@ -17,6 +17,8 @@ public class Book {
     private String bookpublish;
     private Date bookdate;
     private int bookprice;
+    
+    private int b;
 
     public Book() {
 
